@@ -11,5 +11,3 @@ Using ```pip```:
 ```sh
 pip install kilroyfaces
 ```
-
-
