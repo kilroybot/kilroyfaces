@@ -1,0 +1,3 @@
+docs/** linguist-documentation
+kilroyfaces/docs/** linguist-documentation
+*.ipynb linguist-documentation
