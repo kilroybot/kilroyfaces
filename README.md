@@ -153,8 +153,6 @@ Changes can be categorized by using labels. You can configure that in ```.github
 Every time you publish a release, the package is uploaded to PyPI with version taken from release tag (ignoring the version in source code).
 You should store your PyPI token in ```PYPI_TOKEN``` secret.
 
-
-
 ## Jupyter
 
 You can use [```jupyter```](https://jupyter.org) to experiment with the code and make some great visualizations or reports.
