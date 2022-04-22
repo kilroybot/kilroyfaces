@@ -2,14 +2,14 @@
 
 <div align="center">
 
-[![Running tests](https://github.com/kilroybot/kilroyfaces/actions/workflows/test.yml/badge.svg)](https://github.com/kilroybot/kilroyfaces/actions/workflows/test.yml)
-[![Deploying docs](https://github.com/kilroybot/kilroyfaces/actions/workflows/docs.yml/badge.svg)](https://github.com/kilroybot/kilroyfaces/actions/workflows/docs.yml)
+kilroy integrations 🤝
+
+[![Tests](https://github.com/kilroybot/kilroyfaces/actions/workflows/test-multiplatform.yml/badge.svg)](https://github.com/kilroybot/kilroyfaces/actions/workflows/test-multiplatform.yml)
+[![Docs](https://github.com/kilroybot/kilroyfaces/actions/workflows/docs.yml/badge.svg)](https://github.com/kilroybot/kilroyfaces/actions/workflows/docs.yml)
 
 </div>
 
 ---
-
-kilroy integrations 🤝
 
 TODO
 
