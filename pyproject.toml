@@ -16,6 +16,7 @@ packages = [{ include = "kilroyfaces", from = "kilroyfaces/src" }]
 [tool.poetry.dependencies]
 python = "^3.9"
 kilroyshare = "~0.6.0"
+tweepy = "^4.8"
 
 # dev
 jupyterlab = { version = "^3.2", optional = true }
