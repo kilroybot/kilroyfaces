@@ -15,7 +15,7 @@ packages = [{ include = "kilroyfaces", from = "kilroyfaces/src" }]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-kilroyshare = "~0.6.0"
+kilroyshare = "~0.7.0"
 tweepy = "^4.8"
 
 # dev

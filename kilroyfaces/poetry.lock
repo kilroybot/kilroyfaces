@@ -502,7 +502,7 @@ test = ["openapi-core (>=0.14.2)", "ruamel.yaml", "codecov", "ipykernel", "jupyt
 
 [[package]]
 name = "kilroyshare"
-version = "0.6.1"
+version = "0.7.0"
 description = "kilroy shared components 🖇️"
 category = "main"
 optional = false
@@ -1368,8 +1368,8 @@ jupyterlab-server = [
     {file = "jupyterlab_server-2.13.0.tar.gz", hash = "sha256:2040298a133458aa22f287a877d6bb91ff973f6298d562264f9f7b75e92a5ace"},
 ]
 kilroyshare = [
-    {file = "kilroyshare-0.6.1-py3-none-any.whl", hash = "sha256:b4215f3b1e2c29afb7428556055a49d0509a80aea92ea947e3dab64e36ebe5a2"},
-    {file = "kilroyshare-0.6.1.tar.gz", hash = "sha256:65c610cc8e46d62f75d978ca76289af9e9bc511ac7c13ff55d0cae54904754a0"},
+    {file = "kilroyshare-0.7.0-py3-none-any.whl", hash = "sha256:a441aacf0828952a241ce684f41018eb1e2846976b5114714a756238cbf26103"},
+    {file = "kilroyshare-0.7.0.tar.gz", hash = "sha256:720ff899c54d579bfabd6a53e77f84b10f6d63fccf71892b9b4552023f53eb21"},
 ]
 markupsafe = [
     {file = "MarkupSafe-2.1.1-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:86b1f75c4e7c2ac2ccdaec2b9022845dbb81880ca318bb7a0a01fbf7813e3812"},
