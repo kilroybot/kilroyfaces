@@ -17,6 +17,7 @@ packages = [{ include = "kilroyfaces", from = "kilroyfaces/src" }]
 python = "^3.9"
 kilroyshare = "~0.7.0"
 tweepy = "^4.8"
+"discord.py" = "^1.7"
 
 # dev
 jupyterlab = { version = "^3.2", optional = true }
