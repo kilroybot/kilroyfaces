@@ -3,7 +3,7 @@
 
 [tool.poetry]
 name = "kilroyfaces"
-version = "0.1.0"
+version = "0.2.0"
 description = "kilroy integrations 🤝"
 readme = "kilroyfaces/README.md"
 authors = ["kilroy <kilroymail@pm.me>"]
