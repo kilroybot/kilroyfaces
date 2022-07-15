@@ -31,6 +31,9 @@ class DiscordFace(Face[int, str]):
         await self.client.login(self.auth.token)
         self.channel = await self.client.fetch_channel(self.channel_id)
 
+    async def cleanup(self) -> None:
+        await self.client.close()
+
     async def scrap(
         self, limit: Optional[int] = None
     ) -> Union[Iterator[Tuple[int, str]], AsyncIterator[Tuple[int, str]]]:
